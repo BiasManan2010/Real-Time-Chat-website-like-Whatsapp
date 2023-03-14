@@ -1,8 +1,10 @@
 # Real-Time-Chat-website-like-Whatsapp
 this is the website in which we can chat with our friends by following some simple step.
-Now Follow the steps of Installation below:-
-<img src="https://imgur.com/2MRwfe2">
-## Requirements
+Now Follow the steps of Installation below:-<br>
+<h1 align="center">
+<img src="https://i.imgur.com/2MRwfe2.png"  height="320" width="640">
+  </h1>
+    ## Requirements
 * [Node.js](https://nodejs.org/en/download/) should be Installed in your Pc
 
 
