@@ -4,5 +4,5 @@ Now Follow the steps of Installation below:-
 ## Installation
 * Step 1 is to run this command (GIVEN BELOW) in terminal of your directory 
 ''
-git clone  
+git clone https://github.com/BiasManan2010/Real-Time-Chat-website-like-Whatsapp.git 
 ''
