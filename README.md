@@ -4,16 +4,16 @@ Now Follow the steps of Installation below:-<br>
 <h1 align="center">
 <img src="https://i.imgur.com/2MRwfe2.png"  height="320" width="640">
   </h1>
-    ## Requirements
-* [Node.js](https://nodejs.org/en/download/) should be Installed in your Pc
-
+  
+ ## Requirements
+* [Node.js](https://nodejs.org/en/download/) should be Installed in your Pc (**USE THE LATEST VERSION**)
 
 ## Installation
-* Step 1 is to run this command (GIVEN BELOW) in terminal of your directory 
+* Step 1 is to run this command (**GIVEN BELOW**) in terminal of your directory 
 ```
 git clone https://github.com/BiasManan2010/Real-Time-Chat-website-like-Whatsapp.git 
 ```
-* Step 2 is to run this command in terminal (GIVEN BELOW)
+* Step 2 is to run this command in terminal (**GIVEN BELOW**)
 ```
 npm node server.js
 ```
