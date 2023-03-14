@@ -15,8 +15,21 @@ git clone https://github.com/BiasManan2010/Real-Time-Chat-website-like-Whatsapp.
 ```
 * Step 2 is to run this command in terminal (**GIVEN BELOW**)
 ```
-npm node server.js
+cd Real-Time-Chat-website-like-Whatsapp
 ```
+* Step 3 is to run this command in terminal (**GIVEN BELOW**)
+```
+node server.js
+```
+* Now put this link in your browser
+```
+http://localhost:3000/
+```
+* After Doing Every Step You will Be Seeing Like This
+<h1 align="center">
+<img src="https://i.imgur.com/7TXv7qf.png"
+</h1>
+
 **Now Enjoy The website**
 
 ## Important Note
