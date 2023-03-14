@@ -3,7 +3,7 @@ this is the website in which we can chat with our friends by following some simp
 Now Follow the steps of Installation below:-
 <img src="https://imgur.com/2MRwfe2">
 ## Requirements
-1. [Node.js](https://nodejs.org/en/download/) should be Installed in your Pc
+* [Node.js](https://nodejs.org/en/download/) should be Installed in your Pc
 
 
 ## Installation
@@ -16,3 +16,6 @@ git clone https://github.com/BiasManan2010/Real-Time-Chat-website-like-Whatsapp.
 npm node server.js
 ```
 **Now Enjoy The website**
+
+## Important Note
+IF YOU ARE USING THIS CODE AND PUBLISHING THIS TO GITHUB OR ANY OTHER PAGE SO PLEASE GIVE ME CREDITS BY GIVING MY GITHUB ID URL
